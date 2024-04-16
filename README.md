@@ -26,7 +26,6 @@
 
 <p align="center">For more information see <a href="https://docs.lukso.tech/tools/lsp-factoryjs/getting-started">Documentation</a>.</p>
 
-**Warning**
 Initially, `lsp-factory.js` was created to streamline the deployment of smart contracts. However, with the introduction of the [LSP23 Linked Contracts Factory](https://docs.lukso.tech/standards/generic-standards/lsp23-linked-contracts-factory), it became obsolete. Currently, **`lsp-factory.js` is no longer maintained**. We recommend using the following tools instead:
 
 - For deploying Universal Profiles, utilize [LSP23](https://docs.lukso.tech/learn/expert-guides/deploy-up-with-lsp23) using web3js or ethers.js code;
