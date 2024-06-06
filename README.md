@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center"><strong>@lukso/lsp-factory.js</strong></h1>
+ <h1 align="center"><strong>@lukso/lsp-factory.js<br>Deprecated: The development of this library is currently put on hold, please use the <a href="https://github.com/lukso-network/lsp-smart-contracts">LSP-smart-contracts</a> directly</strong></h1>
  <p align="center">Helper library to allow simple deployments of <a href="https://github.com/lukso-network/LIPs/blob/main/LSPs/LSP-0-ERC725Account.md">UniversalProfiles</a> and <a href="https://github.com/lukso-network/LIPs/blob/main/LSPs/LSP-4-DigitalCertificate.md">LSP7</a> and <a href="https://github.com/lukso-network/LIPs/blob/main/LSPs/LSP-8-IdentifiableDigitalAsset.md">LSP8 </a>Digital Assets.</p>
 </p>
 
